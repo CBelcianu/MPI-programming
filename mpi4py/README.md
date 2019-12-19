@@ -16,5 +16,5 @@ Or read the documentation from this [link](https://mpi4py.readthedocs.io/en/stab
 
 ## Future read
 
- - [R12. Karatsuba Multiplication, Newton's Method](https://www.youtube.com/watch?v=JRgIXyEPnbA)
- - [Karatsuba Algorithm for Fast Multiplication](https://www.youtube.com/watch?v=IxSxi2P6Fmg)
+ - [MIT OpenCourseWare, Karatsuba Multiplication, Newton's Method](https://www.youtube.com/watch?v=JRgIXyEPnbA)
+ - [Algorithm explained, Karatsuba Algorithm for Fast Multiplication](https://www.youtube.com/watch?v=IxSxi2P6Fmg)

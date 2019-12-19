@@ -29,7 +29,28 @@ process 0 received message from process 3 : Hello from 3
 
 ## Karatsuba algorithm using Python3 and MPI
 
-To be described.
+For this algorithm we need a minimum number of 4 nodes, given that the node labeled with 0 has the role of a parent node, computing the partial results provided by the child nodes labeled with numbers between 1 and 3. 
+
+```
+mpirun -np 4 python3 karatsuba_with_mpi.py 
+```
+
+Expected result:
+```
+username$ mpirun -np 4 python3 karatsuba.py 
+0
+received:  0
+received:  10
+received:  15
+computed s4 as: 5
+result:  60
+1
+result:  None
+2
+result:  None
+3
+result:  None
+```
 
 ## Future read
 

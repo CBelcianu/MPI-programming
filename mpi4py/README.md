@@ -18,6 +18,15 @@ Or read the documentation from this [link](https://mpi4py.readthedocs.io/en/stab
 
 You can find a test script under the '/exmps' folder made to quickly test if the installation succesfully succeded.
 
+Run: `mpirun -np 4 python[3] exmp.py`
+
+Expect: 
+```
+process 0 received message from process 1 : Hello from 1
+process 0 received message from process 2 : Hello from 2
+process 0 received message from process 3 : Hello from 3
+```
+
 ## Karatsuba algorithm using Python3 and MPI
 
 To be described.

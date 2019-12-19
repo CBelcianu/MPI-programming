@@ -1,6 +1,6 @@
 
 ## MPI using Python 3
-> In order to install mpi4py run the following commands.
+> In order to install mpi4py run the following commands. In the following lines square brackets are used to denote optional strings that I personally used due to my system configuration, but they are not necessarly true for each and every system.
 
 In case of getting some errors, try running:
 ```

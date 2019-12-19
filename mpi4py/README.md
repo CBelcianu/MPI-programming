@@ -14,6 +14,14 @@ Otherwise, just run:
 
 Or read the documentation from this [link](https://mpi4py.readthedocs.io/en/stable/install.html#requirements).
 
+## Testing the MPI
+
+You can find a test script under the '/exmps' folder made to quickly test if the installation succesfully succeded.
+
+## Karatsuba algorithm using Python3 and MPI
+
+To be described.
+
 ## Future read
 
  - [MIT OpenCourseWare, Karatsuba Multiplication, Newton's Method](https://www.youtube.com/watch?v=JRgIXyEPnbA)
